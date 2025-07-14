@@ -31,4 +31,4 @@ In the offline version, you can access all of Asana's core features without an a
 *Overview of project tracking and task completion features in Asana.*
 
 ## 🔍 SEO Keywords
-asana, asana app, asana desktop, asana download, asana free, asana for windows, asana vs trello, asana vs monday, asana templates, asana tutorial, how to use asana, asana project management, asana task management, asana team collaboration, asana workflow, asana productivity, asana pricing, asana alternatives, asana for small business, asana integrations, asana calendar, asana board view, asana setup, asana desktop, asana review, best asana features, asana time trackingasana offline activation
+asana, asana app, asana desktop, asana download, asana free, asana for windows, asana vs trello, asana vs monday, asana templates, asana tutorial, how to use asana, asana project management, asana task management, asana team collaboration, asana workflow, asana productivity, asana pricing, asana alternatives, asana for small business, asana integrations, asana calendar, asana board view, asana setup, asana desktop, asana review, best asana features, asana time tracking, asana offline activation
